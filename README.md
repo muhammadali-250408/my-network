@@ -1,9 +1,9 @@
 # my-network
 - WARNING: THE CODE IS ONLY A PROJECT, THERE IS *NO* SECURITY OR PRIVACY FEATURES INBUILT. ONCE IT GOES FULLY PUBLIC, DO NOT IN ANY SCENARIO INPUT YOUR ACTUALLY EMAIL, USERNAME OR PASSWORD.
 - AGREEMENT:
-    BY DOWNLOADING, COPYING OR USING THE CODE YOU AGREE THAT:
-        - 1] I hold *NO* responsibility for *any damages*, wether *legal, physical, virtual*, or in *any other way*, as a result of my code, *wether directly or indirectly*
-        - 2] You hold full resposibility for any misuse -IN REFERENCE TO "THE COMPUTER MISUSE ACT"-  that *YOU* do *VIA* my code wether *DIRECTLY* or *INDIRECTLY*
+    - BY DOWNLOADING, COPYING OR USING THE CODE YOU AGREE THAT:
+      - 1] I hold *NO* responsibility for *any damages*, wether *legal, physical, virtual*, or in *any other way*, as a result of my code, *wether directly or indirectly*
+      - 2] You hold full resposibility for any misuse -IN REFERENCE TO "THE COMPUTER MISUSE ACT"-  that *YOU* do *VIA* my code wether *DIRECTLY* or *INDIRECTLY*
 
 
   

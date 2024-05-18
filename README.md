@@ -12,7 +12,10 @@
 - It consists of not only the client code publizied now but a custom DNS code [THIS WILL NEVER BE RELEASED DUE ETHICAL CONCERNS] and a custom HTTP server [THIS WILL BE RELEASED]
 - HTTP SERVER
     - Once HTTP server code is fully ready it will released to allow people to host their websites on the network
-    - HOWEVER: in order to get your server IP added to the DNS you must email [THE EMAIL WILL BE WRITTEN IN THE CODE] the: 1) IP hosting the server 2) The *ENTIRE* code of the wesbite. 3) The main funtion of your website
+    - HOWEVER: in order to get your server IP added to the DNS you must email [THE EMAIL WILL BE WRITTEN IN THE CODE] the:
+      - 1) IP hosting the server
+      - 2) The *ENTIRE* code of the wesbite.
+      - 3) The main funtion of your website
     - This is being done so that any unethical websites can be prevented from being hosted and accesed.
     - If the IP of the server does change then email the new Ip, via the *SAME EMAIL*
       

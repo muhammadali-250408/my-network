@@ -22,4 +22,8 @@
       - 3) The main funtion of your website
     - This is being done so that any unethical websites can be prevented from being hosted and accesed.
     - If the IP of the server does change then email the new Ip, via the *SAME EMAIL*
+
+- NEXT UPDATE
+  - Allow html files to use <style> and <script> tags
+  - Allow websites to be interactive
       

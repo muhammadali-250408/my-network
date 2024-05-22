@@ -2,7 +2,7 @@
 - WARNING: THE CODE IS ONLY AN EDUCATIONAL PROJECT, THERE IS *NO* SECURITY OR PRIVACY FEATURES INBUILT. ONCE IT GOES FULLY PUBLIC, DO NOT IN ANY SCENARIO INPUT YOUR ACTUALLY EMAIL, USERNAME, PASSWORD, BANK DETAILS AND ANY OTHER SENSITIVE DATA.
 
 - This is a small project I have been working on in order to widen my understanding on networks and the internet in general
-- It consists of not only the client code publizied now but a custom DNS code [THIS WILL NEVER BE RELEASED DUE ETHICAL CONCERNS] and a custom HTTP server [THIS WILL BE RELEASED]
+- It consists of not only the client code publizied now but a custom DNS code and a custom HTTP server [THIS WILL BE RELEASED]
 - The HTTP server, client and DNS are linked in order to allow users to access many different websites, once the code is public and many HTTP server are running it will become a mini internet of sorts.
 - HTTP SERVER
     - Once HTTP server code is fully ready it will released to allow people to host their websites on the network

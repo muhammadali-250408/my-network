@@ -6,7 +6,7 @@ def get_html(url):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     # CONNECT
-    s.connect(("192.168.1.133", 4000))
+    s.connect(("###.###.###.###", 4000))
 
     # CONFIRMING WE ARE A USER
 
